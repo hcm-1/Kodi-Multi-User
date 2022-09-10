@@ -19,7 +19,7 @@ DELIMITER ;
     DELETE FROM `Kodi_U01_Video_119`.bookmark WHERE idfile = old.idfile;
     DELETE FROM `Kodi_U02_Video_119`.bookmark WHERE idfile = old.idfile;
     DELETE FROM `Kodi_U03_Video_119`.bookmark WHERE idfile = old.idfile;
-    DELETE FROM `Kodi_U03_Video_119`.bookmark WHERE idfile = old.idfile;
+    DELETE FROM `Kodi_U04_Video_119`.bookmark WHERE idfile = old.idfile;
     DELETE FROM `Kodi_U05_Video_119`.bookmark WHERE idfile = old.idfile;
     DELETE FROM `Kodi_U06_Video_119`.bookmark WHERE idfile = old.idfile;
     DELETE FROM `Kodi_U07_Video_119`.bookmark WHERE idfile = old.idfile;
